@@ -1,0 +1,17 @@
+nm
+nori
+nmodels
+nset
+(masses(1:nm))
+mindist
+distvar
+polya,polyb1,polyb2
+streu
+anglediv
+mxsize,mysize,mzsize
+mvxsize,mvysize,mvzsize
+orimass
+oxsize,oysize,ozsize
+ovxsize,ovysize,ovzsize
+opdist
+ovdist
